@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Snowstorm-showdown 1.0.5/Assets/Training_dummy/Scene/Demo.unity.meta
 guid: 5eb38400779272d4c84011e798bae4c8
+========
+guid: 89c744dfc1b914c188bc8551b9f1c454
+>>>>>>>> mario:Snowstorm-showdown 1.0.5/Assets/Scenes/Second Introduction.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
